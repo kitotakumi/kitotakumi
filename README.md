@@ -37,7 +37,7 @@
 
 - **Slack向け社内AIアプリの開発（2024）**
   - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。
-  - [アーキテクチャ図](https://github.com/kitotakumi/project2)
+  - [アーキテクチャ図]([https://github.com/kitotakumi/project2](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_app_for_slack.png))
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
   - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上の統合LLM開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
@@ -60,6 +60,7 @@
 - **AIで適職を診断する新規Webアプリケーションの開発（2024）**
   - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
   - [アプリURL](https://www.hop-job.com/ai-job-aptitude/index)
+  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_job_aptitude.png)
 
 ## Contact Information
 - **E-mail:** kitokitorecruit@gmail.com
