@@ -42,7 +42,7 @@
 - **Difyのファイルアップロード機能のバグ修正（2024）**
   - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上の統合LLM開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
   - [リポジトリ](https://github.com/kitotakumi/project2)
-  - [ISSUE](https://github.com/langgenius/dify/issues/10737)
+  - [Issue](https://github.com/langgenius/dify/issues/10737)
   - [Pull Request](https://github.com/langgenius/dify/pull/10872)
 
 - **Webメディア内の画像へのアノテーションによる検索システム構築（2024）**
