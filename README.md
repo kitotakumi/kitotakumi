@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile
-・名前：鬼頭拓海　　・生年月日：2002/06/03　　・趣味：サッカー、音楽、ラーメン
+名前：鬼頭拓海　　生年月日：2002/06/03　　趣味：サッカー、音楽、ラーメン
 
 ### 学歴
 | 年   | 月 | 内容                             |
