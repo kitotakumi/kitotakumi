@@ -22,7 +22,7 @@
 | 2025 | 3  | 基本情報技術者試験 取得|
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,docker,react,js,ts,figma,cpp,mysql,notion,html,css," /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,docker,react,js,ts,cpp,mysql,html,css,figma,notion" /><br>
 
 - 大学では遺伝的アルゴリズムを専攻する研究室に所属しており、スケジューリングアルゴリズムの研究を行っております。
 - また株式会社キュービックにて長期インターンを行っています。新規Webアプリの開発等を経験し、現在はAI部門のエンジニアとしてWebアプリや社内AIプロジェクトの開発を担当しています。[私のインターン活動についての記事](https://note.com/cuebic_intern/n/nb050623752e3)
