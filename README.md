@@ -1,8 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile
-鬼頭拓海と申します。現在27年度卒の新卒として就職活動をしております。</br>
-・生年月日：2002/06/03　　・趣味：サッカー、音楽
+鬼頭拓海と申します。現在27年度卒の新卒として就職活動をしています。</br>
+・生年月日：2002/06/03　　・趣味：サッカー、音楽、ラーメン
 
 ### 学歴
 | 年   | 月 | 内容                             |
@@ -29,7 +29,7 @@
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,docker,react,js,ts,figma,cpp,mysql,notion,html,css," /><br>
 
-大学では遺伝的アルゴリズムを専攻する研究室に所属しており、スケジューリングアルゴリズムの研究を行っております。<br>
+大学では遺伝的アルゴリズムを専攻する研究室に所属しており、スケジューリングアルゴリズムの研究を行っております。<br><br>
 また株式会社キュービックにて長期インターンを行っており、現在はAI部門のエンジニアとしてWebアプリや社内AIプロジェクトの開発を担当しています。
 
 ### 主な開発履歴
@@ -45,7 +45,7 @@
   - [アーキテクチャ図](https://github.com/kitotakumi/project2)
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
-  - 社内アプリケーションの開発途中で、Dify（利用者数100万人以上の統合LLM開発プラットフォーム）のファイルのアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
+  - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上の統合LLM開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
   - [リポジトリ](https://github.com/kitotakumi/project2)
   - [ISSUE](https://github.com/kitotakumi/project2)
 
