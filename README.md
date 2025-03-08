@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Profile
 鬼頭拓海と申します。現在27年度卒の新卒として就職活動をしております。
 
@@ -31,17 +33,16 @@
 
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" /><br>
-
-### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,docker,react,js,ts,figma,cpp,mysql,notion,html,css," /><br>
 
 ### 主な開発履歴
-- **プロジェクト名1**  
-  概要: 〇〇の問題を解決するために開発。  
-  [リポジトリリンク](https://github.com/kitotakumi/project1)
+- **ジョブショップスケジューリング問題における安定性を考慮した再スケジューリング手法の提案（2024）**
+  - 学士の卒業研究として開発。研究の新規性はジョブの投入順序の変更量を評価し、目的関数に組み込んでいる点。
+  - 元々はSmalltalkで記述されたコードが研究室内で代々引き継がれていたが、Pythonでリファクタリングを行った。
+  - [卒業論文](https://github.com/kitotakumi/project1)
+  - [リポジトリ](https://github.com/kitotakumi/project1)
 
-- **プロジェクト名2**  
+- **社内AIアプリケーション for Slack**  
   概要: 〇〇の仕組みを学びながら作成したサンプルアプリケーション。  
   [リポジトリリンク](https://github.com/kitotakumi/project2)
 
