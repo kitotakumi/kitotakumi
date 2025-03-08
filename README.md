@@ -36,7 +36,7 @@
   - [リポジトリ](https://github.com/kitotakumi/project1)
 
 - **Slack向け社内AIアプリの開発（2024）**
-  - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。ファイルのアップロード機能やURLの読み込み機能の実装やエラーハンドリング・保守も担当。
+  - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。
   - [アーキテクチャ図](https://github.com/kitotakumi/project2)
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
