@@ -54,7 +54,7 @@
   - フロントエンドの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
   - [タイトル生成アプリのリポジトリ](https://www.hop-job.com/ai-job-aptitude/index)
 
-- **AIで適職を診断する新規Webアプリケーションの開発（2024）**
+- **AIを用いて適職を診断する新規Webアプリケーションの開発（2024）**
   - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
   - [アプリURL](https://www.hop-job.com/ai-job-aptitude/index)
   - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_job_aptitude.jpg)
