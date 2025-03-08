@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile
-鬼頭拓海と申します。現在27年度卒の新卒として就職活動をしています。</br>
+鬼頭拓海と申します。</br>
 ・生年月日：2002/06/03　　・趣味：サッカー、音楽、ラーメン
 
 ### 学歴
