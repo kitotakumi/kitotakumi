@@ -24,8 +24,8 @@
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,docker,react,js,ts,figma,cpp,mysql,notion,html,css," /><br>
 
-大学では遺伝的アルゴリズムを専攻する研究室に所属しており、スケジューリングアルゴリズムの研究を行っております。<br><br>
-また株式会社キュービックにて長期インターンを行っており、現在はAI部門のエンジニアとしてWebアプリや社内AIプロジェクトの開発を担当しています。
+- 大学では遺伝的アルゴリズムを専攻する研究室に所属しており、スケジューリングアルゴリズムの研究を行っております。
+- また株式会社キュービックにて長期インターンを行っています。新規Webアプリの開発等を経験し、現在はAI部門のエンジニアとしてWebアプリや社内AIプロジェクトの開発を担当しています。
 
 ### 主な開発履歴
 
@@ -35,22 +35,19 @@
   - [卒業論文](https://github.com/kitotakumi/project1)
   - [リポジトリ](https://github.com/kitotakumi/project1)
 
-- **社内AIアプリケーション for Slack（2024）**
-  - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。ファイルのアップロード機能やURLの読み込み機能も実装やエラーハンドリング・保守も担当。
+- **Slack向け社内AIアプリの開発（2024）**
+  - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。ファイルのアップロード機能やURLの読み込み機能の実装やエラーハンドリング・保守も担当。
   - [アーキテクチャ図](https://github.com/kitotakumi/project2)
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
   - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上の統合LLM開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
   - [リポジトリ](https://github.com/kitotakumi/project2)
-  - [ISSUE](https://github.com/kitotakumi/project2)
+  - [ISSUE](https://github.com/langgenius/dify/issues/10737)
+  - [Pull Request](https://github.com/langgenius/dify/pull/10872)
 
 - **Webメディア内の画像へのアノテーションによる検索システム構築（2024）**
   - Webメディアのデータベース上の数千枚の画像を検索して再利用や管理を容易にできるようにしたいという要望があり、各画像に対してAIを用いて説明文を付与することによってテキスト検索を可能にするプロジェクトの開発を担当。
   - コンテナ化されたWordpress環境のMySQLに各画像の説明文を流し込み、Wordpress上でテキスト検索ができる環境を整えた。
-
-- **AIで適職を診断する新規Webアプリケーションの開発（2024）**
-  - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
-  - [アプリURL](https://www.hop-job.com/ai-job-aptitude/index)
 
 - **社内のAI利用ログの解析（2025）**
   - 20万件の社内AI利用ログの解析を行った。標本調査によって全体の使用用途の推定を行い、形態素解析や頻度分析などを用いてAIの利用シーンを分析。
@@ -59,6 +56,10 @@
   - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツールなどを作成。
   - フロントエンドの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
   - [タイトル生成アプリのリポジトリ](https://www.hop-job.com/ai-job-aptitude/index)
+
+- **AIで適職を診断する新規Webアプリケーションの開発（2024）**
+  - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
+  - [アプリURL](https://www.hop-job.com/ai-job-aptitude/index)
 
 ## Contact Information
 - **E-mail:** kitokitorecruit@gmail.com
