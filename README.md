@@ -60,7 +60,7 @@
 - **AIで適職を診断する新規Webアプリケーションの開発（2024）**
   - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
   - [アプリURL](https://www.hop-job.com/ai-job-aptitude/index)
-  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_job_aptitude.png)
+  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_job_aptitude.jpg)
 
 ## Contact Information
 - **E-mail:** kitokitorecruit@gmail.com
