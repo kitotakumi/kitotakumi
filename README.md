@@ -37,7 +37,7 @@
   - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツールなどを作成。
   - アプリケーションの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
   - [ai_title_generatorのリポジトリ](https://github.com/kitotakumi/ai_title_generator)
-  - [ai_title_generatorのアーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_title_generator.png)
+  - [ai_title_generatorのアーキテクチャ図](https://github.com/kitotakumi/ai_title_generator/blob/main/ai_title_generator_architecture.png)
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
   - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上のAI開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見し、原因箇所を特定してプルリクエストを提出。マージされた。
