@@ -30,8 +30,8 @@
 - **ジョブショップスケジューリング問題におけるジョブの投入順序の変更量を考慮した再スケジューリング手法の提案（2024）**
   - 学士の卒業研究として開発。研究の新規性はジョブの投入順序の変更量を評価し、目的関数に組み込んでいる点。計算機実験で有意な結果が得られた。
   - 元々はSmalltalkで記述されたコードが研究室内で代々引き継がれていたが、Pythonでリファクタリングを行った。
-  - [卒業論文](https://github.com/kitotakumi/project1)
-  - [リポジトリ](https://github.com/kitotakumi/project1)
+  - [卒業論文](https://github.com/kitotakumi/rescheduling_method_for_jsp_considering_degree_of_job_sequence_change/blob/main/TakumiKito_%E5%8D%92%E8%AB%96_%E6%9C%AC%E8%AB%96.pdf)
+  - [リポジトリ](https://github.com/kitotakumi/rescheduling_method_for_jsp_considering_degree_of_job_sequence_change)
 
 - **Slack向け社内AIアプリの開発（2024）**
   - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。
@@ -39,7 +39,6 @@
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
   - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上の統合LLM開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
-  - [リポジトリ](https://github.com/kitotakumi/project2)
   - [Issue](https://github.com/langgenius/dify/issues/10737)
   - [Pull Request](https://github.com/langgenius/dify/pull/10872)
 
@@ -53,7 +52,8 @@
 - **社内AIアプリ群の開発（2025）**
   - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツールなどを作成。
   - フロントエンドの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
-  - [タイトル生成アプリのリポジトリ](https://www.hop-job.com/ai-job-aptitude/index)
+  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_title_generator.png)
+  - [タイトル生成アプリのリポジトリ](https://github.com/kitotakumi/ai_title_generator)
 
 - **AIを用いて適職を診断する新規Webアプリケーションの開発（2024）**
   - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
