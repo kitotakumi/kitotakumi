@@ -54,7 +54,6 @@
 - **Slack向け社内AIアプリの開発（2024）**
   - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。
   - ファイルアップロード機能やURL読み込み機能も実装。
-  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_app_for_slack.png)
 
 - **AIを用いて適職を診断するWebアプリケーションの開発（2024）**
   - AIで適職を診断するWebアプリケーションの開発を担当した。開発にはBubbleというローコードツールを用いている。
