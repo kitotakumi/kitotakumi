@@ -1,9 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kitotakumi&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&theme=onedark" />
-</a>
+<img alt="github stats" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&count_private=true&theme=tokyonight" />
+
 
 ## Profile
 名前：鬼頭拓海　　生年月日：2002/06/03　　趣味：サッカー、音楽、ラーメン
