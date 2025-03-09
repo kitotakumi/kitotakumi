@@ -33,9 +33,11 @@
   - [卒業論文](https://github.com/kitotakumi/rescheduling_method_for_jsp_considering_degree_of_job_sequence_change/blob/main/TakumiKito_%E5%8D%92%E8%AB%96_%E6%9C%AC%E8%AB%96.pdf)
   - [リポジトリ](https://github.com/kitotakumi/rescheduling_method_for_jsp_considering_degree_of_job_sequence_change)
 
-- **Slack向け社内AIアプリの開発（2024）**
-  - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。
-  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_app_for_slack.png)
+- **社内AIアプリ群の開発（2025）**
+  - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツールなどを作成。
+  - フロントエンドの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
+  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_title_generator.png)
+  - [タイトル生成アプリのリポジトリ](https://github.com/kitotakumi/ai_title_generator)
 
 - **Difyのファイルアップロード機能のバグ修正（2024）**
   - 社内アプリケーションの開発途中で、[Dify](https://github.com/langgenius/dify)（利用者数100万人以上の統合LLM開発プラットフォームのOSS）のファイルアップロード機能の一部にバグがあることを発見。ソースコード内の問題点を特定し、プルリクエストを提出。マージされた。
@@ -48,15 +50,13 @@
 
 - **社内のAI利用ログの解析（2025）**
   - 20万件の社内AI利用ログの解析を行った。標本調査によって全体の使用用途の推定を行い、形態素解析や頻度分析などを用いてAIの利用シーンを分析。
- 
-- **社内AIアプリ群の開発（2025）**
-  - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツールなどを作成。
-  - フロントエンドの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
-  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_title_generator.png)
-  - [タイトル生成アプリのリポジトリ](https://github.com/kitotakumi/ai_title_generator)
+
+- **Slack向け社内AIアプリの開発（2024）**
+  - 社内のSlackで画像生成AIや文章生成AIの各社のモデルを利用できるSlackBotを開発。統合LLM開発プラットフォームのDifyやAWS Lambda・S3・DyanoDB・WAFを主に利用している。
+  - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_app_for_slack.png)
 
 - **AIを用いて適職を診断する新規Webアプリケーションの開発（2024）**
-  - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発には大枠はBubbleというローコードツールを用いている。
+  - AIで適職を診断する新規Webアプリケーションの開発を担当した。開発にはBubbleというローコードツールを用いている。
   - [アプリURL](https://www.hop-job.com/ai-job-aptitude/index)
   - [アーキテクチャ図](https://github.com/kitotakumi/portfolio_architectures/blob/main/ai_job_aptitude.jpg)
 
