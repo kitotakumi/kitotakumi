@@ -34,7 +34,7 @@
   - [リポジトリ](https://github.com/kitotakumi/rescheduling_method_for_jsp_considering_degree_of_job_sequence_change)
 
 - **社内AIアプリ群の開発（2025）**
-  - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツールなどを作成。
+  - 社内の業務に具体的に組み込むためのAIツールの開発を行った。記事タイトル生成ツールやペルソナ生成ツール、競合調査ツールなどを作成。
   - アプリケーションの形は社員の使いやすさを重視し、React+AmplifyのWebアプリ、SlackBot+LambdaのSlackアプリ、GAS+Difyのスプレッドシートなど用途に応じて様々なものを作成した。
   - [ai_title_generatorのリポジトリ](https://github.com/kitotakumi/ai_title_generator)
   - [ai_title_generatorのアーキテクチャ図](https://github.com/kitotakumi/ai_title_generator/blob/main/ai_title_generator_architecture.png)
