@@ -1,4 +1,4 @@
-<img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&count_private=true&theme=onedark&theme=onedarklayout=compact" />
+<img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitotakumi&count_private=true&theme=onedark&layout=compact" />
 
 
 ## Profile
