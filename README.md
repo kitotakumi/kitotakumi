@@ -2,9 +2,9 @@
 
 
 ## Profile
-名前：鬼頭拓海　　生年月日：2002/06/03<br>
-所属：早稲田大学大学院 創造理工学研究科 経営システム工学専攻<br>
-資格：基本情報技術者試験,　TOEIC905点
+- **名前**：鬼頭拓海　　生年月日：2002/06/03<br>
+- **所属**：早稲田大学大学院 創造理工学研究科 経営システム工学専攻<br>
+- **資格**：TOEIC905点, 基本情報技術者試験
 
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,docker,react,js,ts,cpp,mysql,html,css,figma,notion" /><br>
