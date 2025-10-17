@@ -7,7 +7,7 @@
 - **資格**：TOEIC905点, 基本情報技術者試験
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,gcp,docker,react,js,ts,cpp,mysql,html,css,figma,notion" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,aws,gcp,docker,sql,react,js,ts,cpp,mysql,html,css,figma,notion" /><br>
 
 ## Portfolio
 
