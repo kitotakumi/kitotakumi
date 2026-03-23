@@ -31,5 +31,3 @@
 
 ## Contact Information
 - **E-mail:** kitokitorecruit@gmail.com
-- https://butternut-postbox-8bd.notion.site/_DI-2ef0d06e845e80db8839e9bfbe514522
-- 
